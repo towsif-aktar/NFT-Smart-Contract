@@ -14,7 +14,7 @@ he contract utilizes OpenZeppelin's libraries for security and follows the ERC72
 + **Custom Base URI:** NFTs are hosted with a custom base URI, set to ipfs://your-ipfs/.
 
 ## Key Variables
-+  Name: 
++  Name: NFT
 +  Symbol: NFT
 +  Max Supply: 10 NFTs
 +  Mint Cost: 0.001 Ether per NFT
